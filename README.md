@@ -19,7 +19,7 @@ An artist should have many songs and a song should belong to an artist:
 
 Because of the has many/belongs to relationship between your classes, the
 `Artist` tests, i.e. the tests in `spec/artist_spec.rb`, rely on some code in
-the `Song` class and vice versa. You will have to build out both the classes as
+the `Song` class and vice versa. You will have to build out both classes as
 you go.
 
 We recommend starting out by getting some of the initial `Artist` tests passing
